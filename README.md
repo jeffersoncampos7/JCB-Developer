@@ -1,2 +1,2 @@
 # JCB-Developer
-Projetos do desenvolvedor cego Jefferson Campos Beck, abrindo os olhos para um novo horizonte... :P
+Projetos de um desenvolvedor cego, abrindo os olhos para um novo horizonte... :P
